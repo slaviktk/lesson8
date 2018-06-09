@@ -15,7 +15,7 @@ public class lesson8 {
             System.out.println("Programm done");
 */
             int a = sc.nextInt();
-            while (a>0) {
+            while (a>0 && a<20) {
                 System.out.println("Ya Programyst");
                 a--;
             }
