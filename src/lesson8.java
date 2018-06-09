@@ -27,8 +27,16 @@ public class lesson8 {
             while (a!=0);
                 System.out.println("Asta La Vista");
             */
+            System.out.println("Vvedite chislo a:");
+            int a = sc.nextInt();
+            System.out.println("Vvedite stepen b:");
+            int b = sc.nextInt();
+            int res = 1;
+            for ( ; b>0 ; res *=a, b--){
 
+            }
 
+            System.out.println(res);
         }
 
     }
