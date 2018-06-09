@@ -14,11 +14,21 @@ public class lesson8 {
             System.out.println("a="+a);
             System.out.println("Programm done");
 */
-            int a = sc.nextInt();
+            /*int a = sc.nextInt();
             while (a>0 && a<20) {
                 System.out.println("Ya Programyst");
                 a--;
+            }*/
+            /*int a;
+            do {
+                System.out.println("Vvedite chislo a:");
+                 a = sc.nextInt();
             }
+            while (a!=0);
+                System.out.println("Asta La Vista");
+            */
+
+
         }
 
     }
