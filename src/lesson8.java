@@ -12,6 +12,7 @@ public class lesson8 {
             System.out.println("c="+c);
             System.out.println("b="+b);
             System.out.println("a="+a);
+            System.out.println("Programm done");
 
         }
 
